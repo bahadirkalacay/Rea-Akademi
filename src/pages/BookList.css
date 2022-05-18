@@ -1,0 +1,18 @@
+.container{
+    text-align: center !important;
+    margin-top: 20px !important;
+    margin-left: auto;
+}
+.second-button{
+    margin-left: 5px;
+}
+
+.third-button{
+    margin-top: 10px;
+    width: 150px;
+}
+
+.card-item{
+    margin-left: 15px !important;
+    margin-top: 15px !important;
+}

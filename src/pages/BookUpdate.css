@@ -1,0 +1,19 @@
+@media only screen and (max-width: 480px){
+    .formInformation{
+        width: 300px;
+        margin-left: 10px !important;
+        
+        
+    }
+
+    .formInformation1{
+        margin-right:auto;
+        width: 250px;
+    }
+
+    .buttonInformation1{
+        width: 260px !important;
+        margin-right: 80px !important;
+        margin-top: 40px !important;
+    }
+  }
